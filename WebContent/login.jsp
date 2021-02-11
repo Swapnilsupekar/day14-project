@@ -25,7 +25,7 @@
 		<div class="col-6 text-light d-flex flex-column justify-content-center align-items-center">
 			<form class="" style="width:50%">
 				<div class="bg-light text-dark py-3 rounded d-flex justify-content-center" style="font-family:cursive; font-size:1.5rem; font-weight:bold">
-					Application Registratration
+					Application Login
 				</div>
 			
 				<div class="mt-1">
@@ -36,22 +36,16 @@
 					<input class="form-control form-control-lg" type="password" placeholder="Password...">
 				</div>
 				
-				<div class="mt-1">
-					<input class="form-control form-control-lg" type="text" placeholder="Email....">
-				</div>
 				
 				<div class="mt-1">
-					<input class="form-control form-control-lg" type="text" placeholder="Mobile...">
-				</div>
-				<div class="mt-1">
-					<input class="btn btn-secondary btn-block" type="submit" value="Register">
+					<input class="btn btn-secondary btn-block" type="submit" value="Login">
 				</div>
 				<div class="mt-1">
 					<input class="btn btn-secondary btn-block" type="button" value="Cancel">
 				</div>
 				
 				<div class="mt-1 d-flex justify-content-center text-primary" >
-					<a href="login.jsp" class="btn btn-link">Sign In Here...</a> 
+					<a href="register.jsp" class="btn btn-link">Register Here...</a> 
 				</div>
 			</form>	
 		</div>
